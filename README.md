@@ -30,7 +30,7 @@ An AI-powered document analysis application built using **Python**, **Streamlit*
 
 ### Step 3: Ask questions
 
-![AI Assistant](screenshots/ai_assistant.png)
+![AI Assistant](screenshots/ai_assistent.png)
 
 ## 📑 Supported Documents
 
