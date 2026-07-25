@@ -142,9 +142,6 @@ http://localhost:8501
 
 ---
 
----
----
-
 # 📂 Test Files
 
 The repository includes sample PDF files that can be used to test the application.
