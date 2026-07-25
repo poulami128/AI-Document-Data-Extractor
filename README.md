@@ -66,3 +66,17 @@ It supports multiple document types including resumes, invoices, certificates, n
 
 \- python-dotenv
 
+## Validation Logic
+
+The application performs basic validation before displaying extracted results.
+
+- Gemini is instructed to return only valid JSON.
+- The application parses and validates the JSON response before displaying it.
+- Missing fields are returned as `null` where appropriate.
+- If the model returns invalid JSON, the application displays an error instead of incorrect data.
+
+### Known Limitations
+
+- Image-only or scanned PDFs may require OCR.
+- Complex tables may not always be extracted accurately.
+- The quality of extraction depends on the readability of the uploaded document.
