@@ -170,6 +170,19 @@ Available test files:
 
 These sample files allow reviewers to upload different document types and verify the document extraction, summarization, structured JSON generation, and AI-powered question answering features of the application.
 
+## 🧪 Test Cases
+
+Test cases and expected outputs are provided in the `tests` folder.
+
+They include:
+
+- Resume
+- Invoice
+- Certificate
+- Notes
+
+Reviewers can reproduce the results by uploading the provided sample documents.
+
 # 💬 Example Questions
 
 Users can ask questions such as:
