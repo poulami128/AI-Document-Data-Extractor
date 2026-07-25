@@ -142,16 +142,6 @@ http://localhost:8501
 
 ---
 
-# 📋 Sample Documents
-
-The application has been tested with multiple document layouts including:
-
-- Resume
-- Invoice
-- Certificate
-- Notes
-- Research Paper
-
 ---
 ---
 
