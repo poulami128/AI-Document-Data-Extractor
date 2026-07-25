@@ -153,6 +153,22 @@ The application has been tested with multiple document layouts including:
 - Research Paper
 
 ---
+---
+
+# 📂 Test Files
+
+The repository includes sample PDF files that can be used to test the application.
+
+These files are located in the **sample_documents** folder.
+
+Available test files:
+
+- certification.pdf
+- GATE_CN_Formula_Sheet (9).pdf
+- invoice.pdf
+- resumedataset.pdf
+
+These sample files allow reviewers to upload different document types and verify the document extraction, summarization, structured JSON generation, and AI-powered question answering features of the application.
 
 # 💬 Example Questions
 
