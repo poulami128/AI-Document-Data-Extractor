@@ -1,30 +1,3 @@
-# 📄 AI Document Data Extraction Agent
-
-...project description...
-
----
-
-## 🚀 Features
-
-...
-
----
-
-## 🎥 Demo
-
-1. Upload any PDF document.
-2. Click **Extract Information**.
-3. The AI identifies the document type.
-4. A summary and structured data are generated.
-5. Download the extracted information as JSON or CSV.
-6. Ask questions about the document using the AI Document Assistant.
-
----
-
-## 📑 Supported Documents
-
-...
-
 
 # 📄 AI Document Data Extraction Agent
 
@@ -45,6 +18,19 @@ An AI-powered document analysis application built using **Python**, **Streamlit*
 - 📑 Supports multiple document types
 
 ---
+## 🎥 Demo
+
+### Step 1: Upload a document
+
+![Home](screenshots/home.png)
+
+### Step 2: Extract information
+
+![Resume](screenshots/resume.png)
+
+### Step 3: Ask questions
+
+![AI Assistant](screenshots/ai_assistant.png)
 
 ## 📑 Supported Documents
 
